@@ -138,7 +138,6 @@
     margin-left: 20px;
     padding: 5%;
     color: #dfe3e1;
-    margin-bottom: 10px
 }
 .last-container button
 {
@@ -186,6 +185,7 @@ i
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-bottom: 120px;
 }
 @media screen and (min-width: 350px) and (max-width: 1000px)
 {
